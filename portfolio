@@ -1,0 +1,38 @@
+<header>
+		<section id="one">
+			<h1>Your Name</h1>
+		</section>
+		<section id="two">
+			<h4><a href="index.html">About</a> &nbsp; | &nbsp; 
+			<a href="portfolio.html">Portfolio</a> &nbsp; | &nbsp;
+			<a href="contact.html">Contact</a></h4>
+		</section>
+	</header>
+
+	<section id="content">
+		<section id="three">
+			<h1 id="portfolio">Portfolio</h1>
+			<div id="pf_area">
+				<div class="pf">
+					<a href="http://google.com"><img class="pf_pic" src="assets/images/portfolio1.jpg">
+						<p class="text">Hangman</p></a>
+				</div>
+				<div class="pf">
+					<a href="http://yahoo.com"><img class="pf_pic" src="assets/images/portfolio2.jpg">
+						<p class="text">RPG Game</p></a>
+				</div>
+				<div class="pf">
+					<a href="http://nyt.com"><img class="pf_pic" src="assets/images/portfolio3.jpg">
+						<p class="text">Trivia Game</p></a>
+				</div>
+				<div class="pf">
+					<a href="http://wired.com"><img class="pf_pic" src="assets/images/portfolio4.jpg">
+						<p class="text">Rutgers Info Widget</p></a>
+				</div>
+				<div class="pf">
+					<a href="http://macnn.com"><img class="pf_pic" src="assets/images/portfolio5.jpg">
+						<p class="text">Rock Paper Scissors</p></a>
+				</div>
+			</div>
+			
+		</section>

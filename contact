@@ -1,0 +1,16 @@
+<section id="content">
+		<section id="three">
+			<h1 id="contactme">Contact Me</h1>
+			<form action="url" method="get">
+				Name <br />
+				<input type="text" name="name" size="100" height="20px" maxlength="60"placeholder="Pocahontas">
+				<br /><br />
+				Email <br />
+				<input type="email" name="email" size="100" maxlength="60" placeholder="pocahontas@america.gov" />
+				<br /><br />
+				Message <br />
+				<textarea cols="98" rows="20">
+				</textarea>
+				<button name="submit" type="submit" 
+				id="submit-button">Submit</button>
+			</form>
